@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708357289 source:a:\Óí³âåğ\ÁÌÒÏ\bmtp-lab7-konstantynov\prj\konstantynov-task_7_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
